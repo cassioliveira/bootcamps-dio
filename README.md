@@ -1,1 +1,15 @@
-# bootcamps-dio
+# Bootcamps DIO
+
+Este repositório tem como único objetivo centralizar os links dos respositórios criados para os desafios e projetos propostos dentros dos cursos dos bootcamps da Digital Inovation One - DIO. 
+
+# HTML Web Developer
+
+## Projetos
+
+- [Recriando a página inicial do Instagram](https://github.com/cassioliveira/bootcamp-dio-instragam-login-clone)
+- [Recriando a interface do Netflix](https://github.com/cassioliveira/bootcamp-dio-clone-netflix)
+- [Recriando o jogo da cobrinha com Javascript](https://github.com/cassioliveira/bootcamp-dio-snake-game)
+
+## Desafios
+
+- [Desafios introdutórios e aritméticos em Javascript](https://github.com/cassioliveira/bootcamp-dio-html-dev-desafios)
