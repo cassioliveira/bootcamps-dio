@@ -8,6 +8,7 @@ Este repositório tem como único objetivo centralizar os links dos respositóri
 - [Recriando a interface do Netflix](https://github.com/cassioliveira/bootcamp-dio-clone-netflix)
 - [Recriando o jogo da cobrinha com Javascript](https://github.com/cassioliveira/bootcamp-dio-snake-game)
 - [Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot](https://github.com/cassioliveira/bootcamp-dio-personapi-spring-rest)
+- [Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/cassioliveira/labs-dio-banco-poo-java)
 
 ## Desafios
 
