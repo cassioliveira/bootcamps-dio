@@ -1,6 +1,6 @@
-# Bootcamps DIO
+# Projetos práticos DIO
 
-Este repositório tem como único objetivo centralizar os links dos respositórios criados para os desafios e projetos propostos dentros dos cursos dos bootcamps da Digital Inovation One - DIO. 
+Este repositório tem como único objetivo centralizar os links dos respositórios criados para os desafios e projetos propostos dentros dos cursos da Digital Inovation One - DIO. 
 
 ## Projetos
 
